@@ -1,0 +1,12 @@
+# Microdados do INEP (públicos, ~700 MB) — baixe no portal do INEP; veja o README
+microdados_censo_escolar_*/
+*.csv
+*.zip
+
+# Configuração/credenciais locais
+.env
+*.env
+.vscode/
+
+# Sistema
+.DS_Store
